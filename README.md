@@ -1,10 +1,10 @@
-<h1 align="center">Hi Saya YUan</h1>
-<h3 align="center">Sang Perikod Handal Dari Indonesia</h3>
+<h1 align="center">Hi Saya Yuan Eka Pratama</h1>
+<h3 align="center">Suami Asli Minji dari Pekalongan</h3>
 <p align="center">
   <a href="https://github.com/InstaCodex/"><img src="https://img.shields.io/badge/-Github-FFA116?style=for-the-badge&logo=Github&logoColor=black"/> </a>
 </p>
 
-<img src="https://c.tenor.com/0VpWQst6IFUAAAAd/tenor.gif" alt="Profile Image" width="100%">
+<img src="https://media2.giphy.com/media/v1.Y2lkPTc5MGI3NjExcDhleW81eDNidjkxaDZmNmpqYjMyZzdpYTZ1bGg2NjBzZnFqNnkwYyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/5xjqhlYfQvR3dqk3mc/giphy.gif" alt="Profile Image" width="100%">
 
 <h1 align="center">Visit My Social Media</h1>
 <p align="center">
